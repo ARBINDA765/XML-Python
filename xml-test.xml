@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="30" meta:paragraph-count="626" meta:word-count="1633" meta:character-count="26964" meta:non-whitespace-character-count="20018"/><meta:generator>LibreOffice/6.1.5.2$Linux_X86_64 LibreOffice_project/10$Build-2</meta:generator></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">0</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">539898</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">539898</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Noto Sans Devanagari1" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans Devanagari" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="DejaVu Sans" style:font-family-asian="&apos;DejaVu Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" loext:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Liberation Mono" style:font-family-asian="&apos;Liberation Mono&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Preformatted_20_Text">&lt;?xml version=&quot;1.0&quot;?&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">&lt;AlteryxDocument yxmdVer=&quot;10.5&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;Nodes&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Node ToolID=&quot;2&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;GuiSettings Plugin=&quot;AlteryxConnectorGui.Download.Download&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Position x=&quot;138&quot; y=&quot;150&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;URLField&gt;URL&lt;/URLField&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;OutputMode&gt;TempFile&lt;/OutputMode&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;EncodeURLs value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Headers&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;NameValues /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Fields orderChanged=&quot;False&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;Field name=&quot;Airline&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;Field name=&quot;URL&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;Field name=&quot;*Unknown&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;/Fields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/Headers&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="10"/>&lt;Payload&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;HTTPAction&gt;GET&lt;/HTTPAction&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;QueryStringBodyMode&gt;Compose&lt;/QueryStringBodyMode&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;ComposeNameValues /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;ComposeFields orderChanged=&quot;False&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;Field name=&quot;Airline&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;Field name=&quot;URL&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;Field name=&quot;*Unknown&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;/ComposeFields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/Payload&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;UserName /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Password /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;numConnections&gt;2&lt;/numConnections&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Timeout&gt;600&lt;/Timeout&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Annotation DisplayMode=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Name /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;DefaultAnnotationText /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Left value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Annotation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="6"/>&lt;EngineSettings EngineDll=&quot;AlteryxConnectorEngine.dll&quot; EngineDllEntryPoint=&quot;AlteryxDownload&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Node&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Node ToolID=&quot;3&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;GuiSettings Plugin=&quot;AlteryxBasePluginsGui.RegEx.RegEx&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Position x=&quot;306&quot; y=&quot;150&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Field&gt;DownloadData&lt;/Field&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;RegExExpression value=&quot;&amp;lt;tr&amp;gt;\s+&amp;lt;td class=&amp;quot;w40 hidden-xs hidden-sm&amp;quot;&amp;gt;[^&amp;lt;]*&amp;lt;/td&amp;gt;\s+&amp;lt;td&amp;gt;&amp;lt;a href=&amp;quot;[^&amp;quot;]*&amp;quot;&amp;gt;[^&amp;lt;]*&amp;lt;/a&amp;gt;&amp;lt;/td&amp;gt;\s*&amp;lt;td[^&amp;gt;]*&amp;gt;[^&amp;lt;]*&amp;lt;a href=&amp;quot;[^&amp;quot;]*&amp;quot;&amp;gt;[^&amp;lt;]*&amp;lt;/a&amp;gt;\)&amp;lt;/td&amp;gt;\s*&amp;lt;td[^&amp;gt;]*&amp;gt;[^&amp;lt;]*&amp;lt;a href=&amp;quot;[^&amp;quot;]*&amp;quot;&amp;gt;[^&amp;lt;]*&amp;lt;/a&amp;gt;\)&amp;lt;/td&amp;gt;&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;CaseInsensitve value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Method&gt;ParseSimple&lt;/Method&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Replace expression=&quot;&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;CopyUnmatched value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/Replace&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;ParseSimple&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SplitToRows value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/ParseSimple&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;ParseComplex&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;No Marked Groups Found&quot; type=&quot;No Marked Groups Found&quot; size=&quot;No Marked Groups Found&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/ParseComplex&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="10"/>&lt;Match&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field&gt;DownloadData_Matched&lt;/Field&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;ErrorUnmatched value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/Match&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Annotation DisplayMode=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Name /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;DefaultAnnotationText&gt;Tokenize:&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">&amp;lt;tr&amp;gt;\s+&amp;lt;td class=&quot;w40 hidde...&lt;/DefaultAnnotationText&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Left value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Annotation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;EngineSettings EngineDll=&quot;AlteryxBasePluginsEngine.dll&quot; EngineDllEntryPoint=&quot;AlteryxRegEx&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Node&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Node ToolID=&quot;5&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;GuiSettings Plugin=&quot;AlteryxBasePluginsGui.RegEx.RegEx&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Position x=&quot;426&quot; y=&quot;150&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Field&gt;DownloadData&lt;/Field&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="10"/>&lt;RegExExpression value=&quot;&amp;lt;tr&amp;gt;\s+&amp;lt;td class=&amp;quot;w40 hidden-xs hidden-sm&amp;quot;&amp;gt;[^&amp;lt;]*&amp;lt;/td&amp;gt;\s+&amp;lt;td&amp;gt;&amp;lt;a href=&amp;quot;([^&amp;quot;]*)&amp;quot;&amp;gt;([^&amp;lt;]*)&amp;lt;/a&amp;gt;&amp;lt;/td&amp;gt;\s*&amp;lt;td[^&amp;gt;]*&amp;gt;[^&amp;lt;]*&amp;lt;a href=&amp;quot;[^&amp;quot;]*&amp;quot;&amp;gt;([^&amp;lt;]*)&amp;lt;/a&amp;gt;\)&amp;lt;/td&amp;gt;\s*&amp;lt;td[^&amp;gt;]*&amp;gt;[^&amp;lt;]*&amp;lt;a href=&amp;quot;[^&amp;quot;]*&amp;quot;&amp;gt;([^&amp;lt;]*)&amp;lt;/a&amp;gt;\)&amp;lt;/td&amp;gt;&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;CaseInsensitve value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Method&gt;ParseComplex&lt;/Method&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Replace expression=&quot;&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;CopyUnmatched value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/Replace&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;ParseSimple&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SplitToRows value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/ParseSimple&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;ParseComplex&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;FlightUri&quot; type=&quot;V_WString&quot; size=&quot;1073741823&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;FlightCode&quot; type=&quot;V_WString&quot; size=&quot;1073741823&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;StartAirport&quot; type=&quot;V_WString&quot; size=&quot;1073741823&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;EndAirport&quot; type=&quot;V_WString&quot; size=&quot;1073741823&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/ParseComplex&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Match&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field&gt;DownloadData_Matched&lt;/Field&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;ErrorUnmatched value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/Match&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Annotation DisplayMode=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="10"/>&lt;Name /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;DefaultAnnotationText&gt;Parse:&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">&amp;lt;tr&amp;gt;\s+&amp;lt;td class=&quot;w40 hidde...&lt;/DefaultAnnotationText&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Left value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Annotation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;EngineSettings EngineDll=&quot;AlteryxBasePluginsEngine.dll&quot; EngineDllEntryPoint=&quot;AlteryxRegEx&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Node&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Node ToolID=&quot;6&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;GuiSettings Plugin=&quot;AlteryxBasePluginsGui.AutoField.AutoField&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Position x=&quot;642&quot; y=&quot;150&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Fields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;Airline&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;FlightCode&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;FlightUri&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;StartAirport&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;EndAirport&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;*Unknown&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="10"/>&lt;/Fields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Annotation DisplayMode=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Name /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;DefaultAnnotationText /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Left value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Annotation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;MetaInfo connection=&quot;Output&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;RecordInfo&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;Airline&quot; size=&quot;34&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;V_String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;FlightCode&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;Bool&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;FlightUri&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;Bool&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;StartAirport&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;Bool&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;EndAirport&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;Bool&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/RecordInfo&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/MetaInfo&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;EngineSettings EngineDll=&quot;AlteryxBasePluginsEngine.dll&quot; EngineDllEntryPoint=&quot;AlteryxAutoField&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Node&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Node ToolID=&quot;7&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;GuiSettings Plugin=&quot;AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="8"/>&lt;Position x=&quot;546&quot; y=&quot;150&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;OrderChanged value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;SelectFields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SelectField field=&quot;URL&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SelectField field=&quot;Airline&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SelectField field=&quot;DownloadData&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SelectField field=&quot;DownloadHeaders&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SelectField field=&quot;FlightCode&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SelectField field=&quot;FlightUri&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SelectField field=&quot;StartAirport&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SelectField field=&quot;EndAirport&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SelectField field=&quot;*Unknown&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/SelectFields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Annotation DisplayMode=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Name /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;DefaultAnnotationText /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Left value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="8"/>&lt;/Annotation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;EngineSettings EngineDll=&quot;AlteryxBasePluginsEngine.dll&quot; EngineDllEntryPoint=&quot;AlteryxSelect&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Node&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Node ToolID=&quot;8&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;GuiSettings Plugin=&quot;AlteryxBasePluginsGui.DbFileInput.DbFileInput&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Position x=&quot;630&quot; y=&quot;258&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Passwords /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;File OutputFileName=&quot;&quot; FileFormat=&quot;19&quot; SearchSubDirs=&quot;False&quot; RecordLimit=&quot;&quot;&gt;C:\Downloads\airports.yxdb&lt;/File&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;FormatSpecificOptions /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Annotation DisplayMode=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Name /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;DefaultAnnotationText&gt;airports.yxdb&lt;/DefaultAnnotationText&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Left value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Annotation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Dependencies&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Implicit /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="8"/>&lt;/Dependencies&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;MetaInfo connection=&quot;Output&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;RecordInfo&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;AirportUri&quot; size=&quot;119&quot; source=&quot;Formula: &apos;https://www.world-airport-codes.com&apos; + [AirportUri]&quot; type=&quot;V_String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;Airport&quot; size=&quot;57&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;V_WString&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;City&quot; size=&quot;41&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;V_WString&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;Country&quot; size=&quot;36&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;V_String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;IATA&quot; size=&quot;3&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;ICAO&quot; size=&quot;4&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;FAA&quot; size=&quot;4&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field name=&quot;DownloadData&quot; size=&quot;363677&quot; source=&quot;Download&quot; type=&quot;V_WString&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;Email&quot; size=&quot;1&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;FAA_Code&quot; size=&quot;4&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;Facebook&quot; size=&quot;1&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;Fax&quot; size=&quot;25&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;V_String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;IATA_Code&quot; size=&quot;3&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;ICAO_Code&quot; size=&quot;4&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;Latitude&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;Double&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;Longitude&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;Double&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;Phone&quot; size=&quot;95&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;V_WString&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;Time_Zone&quot; size=&quot;42&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;V_String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;Twitter&quot; size=&quot;1&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;WAC&quot; size=&quot;1&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;_Null_&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;Bool&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/RecordInfo&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/MetaInfo&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;EngineSettings EngineDll=&quot;AlteryxBasePluginsEngine.dll&quot; EngineDllEntryPoint=&quot;AlteryxDbFileInput&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Node&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Node ToolID=&quot;9&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;GuiSettings Plugin=&quot;AlteryxBasePluginsGui.Join.Join&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Position x=&quot;726&quot; y=&quot;162&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Configuration joinByRecordPos=&quot;False&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;JoinInfo connection=&quot;Left&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;StartAirport&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/JoinInfo&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;JoinInfo connection=&quot;Right&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;IATA&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/JoinInfo&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;SelectConfiguration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="12"/>&lt;Configuration outputConnection=&quot;Join&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;OrderChanged value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;SelectFields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;Left_Airline&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;Left_FlightCode&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;Left_FlightUri&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;Left_StartAirport&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;Left_EndAirport&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;Right_Latitude&quot; selected=&quot;True&quot; rename=&quot;StartLatitude&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;Right_Longitude&quot; selected=&quot;True&quot; rename=&quot;StartLongitude&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;*Unknown&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;/SelectFields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/SelectConfiguration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Annotation DisplayMode=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Name /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;DefaultAnnotationText /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Left value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Annotation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="6"/>&lt;EngineSettings EngineDll=&quot;AlteryxBasePluginsEngine.dll&quot; EngineDllEntryPoint=&quot;AlteryxJoin&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Node&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Node ToolID=&quot;10&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;GuiSettings Plugin=&quot;AlteryxBasePluginsGui.Join.Join&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Position x=&quot;846&quot; y=&quot;162&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Configuration joinByRecordPos=&quot;False&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;JoinInfo connection=&quot;Left&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;EndAirport&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/JoinInfo&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;JoinInfo connection=&quot;Right&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;IATA&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/JoinInfo&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;SelectConfiguration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Configuration outputConnection=&quot;Join&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;OrderChanged value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;SelectFields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;Left_Airline&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;Left_FlightCode&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;Left_FlightUri&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="16"/>&lt;SelectField field=&quot;Left_StartAirport&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;Left_EndAirport&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;Left_StartLatitude&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;Left_StartLongitude&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;Right_Latitude&quot; selected=&quot;True&quot; rename=&quot;EndLatitude&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;Right_Longitude&quot; selected=&quot;True&quot; rename=&quot;EndLongitude&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="16"/>&lt;SelectField field=&quot;*Unknown&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;/SelectFields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/SelectConfiguration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Annotation DisplayMode=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Name /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;DefaultAnnotationText /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Left value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Annotation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;EngineSettings EngineDll=&quot;AlteryxBasePluginsEngine.dll&quot; EngineDllEntryPoint=&quot;AlteryxJoin&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Node&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Node ToolID=&quot;11&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="8"/>&lt;Position x=&quot;942&quot; y=&quot;162&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Value name=&quot;Input.Points&quot;&gt;&lt;![CDATA[LatitudeA=StartLatitude&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">LongitudeA=StartLongitude&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">LatitudeB=EndLatitude&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">LongitudeB=EndLongitude&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">]]&gt;&lt;/Value&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Value name=&quot;Numeric Up Down (23)&quot;&gt;100&lt;/Value&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Annotation DisplayMode=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Name /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;DefaultAnnotationText /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Left value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Annotation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Dependencies&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Implicit /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Dependencies&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;EngineSettings Macro=&quot;GreatArcs.yxmc&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>&lt;/Node&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Node ToolID=&quot;12&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;GuiSettings Plugin=&quot;AlteryxBasePluginsGui.DbFileOutput.DbFileOutput&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Position x=&quot;1062&quot; y=&quot;162&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;File MaxRecords=&quot;&quot; FileFormat=&quot;0&quot;&gt;C:\Repos\Alteryx\FlightRadarDownload.csv&lt;/File&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Passwords /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;FormatSpecificOptions&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;LineEndStyle&gt;CRLF&lt;/LineEndStyle&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Delimeter&gt;,&lt;/Delimeter&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;ForceQuotes&gt;False&lt;/ForceQuotes&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;HeaderRow&gt;True&lt;/HeaderRow&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;CodePage&gt;28591&lt;/CodePage&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/FormatSpecificOptions&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;MultiFile value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Annotation DisplayMode=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Name /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;DefaultAnnotationText&gt;FlightRadarDownload.csv&lt;/DefaultAnnotationText&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="10"/>&lt;Left value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Annotation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Dependencies&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Implicit /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Dependencies&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;EngineSettings EngineDll=&quot;AlteryxBasePluginsEngine.dll&quot; EngineDllEntryPoint=&quot;AlteryxDbFileOutput&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Node&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Node ToolID=&quot;13&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;GuiSettings Plugin=&quot;AlteryxBasePluginsGui.TextInput.TextInput&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Position x=&quot;114&quot; y=&quot;6&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;NumRows value=&quot;1&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Fields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field name=&quot;Airline List&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/Fields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Data&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;r&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;c&gt;https://www.flightradar24.com/data/flights&lt;/c&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="12"/>&lt;/r&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/Data&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Annotation DisplayMode=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Name /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;DefaultAnnotationText /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Left value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Annotation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;EngineSettings EngineDll=&quot;AlteryxBasePluginsEngine.dll&quot; EngineDllEntryPoint=&quot;AlteryxTextInput&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Node&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Node ToolID=&quot;14&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;GuiSettings Plugin=&quot;AlteryxConnectorGui.Download.Download&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Position x=&quot;210&quot; y=&quot;6&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;URLField&gt;Airline List&lt;/URLField&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;OutputMode&gt;String&lt;/OutputMode&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;CodePage&gt;65001&lt;/CodePage&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;EncodeURLs value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="10"/>&lt;Headers&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;NameValues /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Fields orderChanged=&quot;False&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;Field name=&quot;Airline List&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;Field name=&quot;*Unknown&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;/Fields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/Headers&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Payload&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;HTTPAction&gt;GET&lt;/HTTPAction&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;QueryStringBodyMode&gt;Compose&lt;/QueryStringBodyMode&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;ComposeNameValues /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;ComposeFields orderChanged=&quot;False&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;Field name=&quot;Airline List&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="14"/>&lt;Field name=&quot;*Unknown&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;/ComposeFields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/Payload&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;UserName /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Password /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;numConnections&gt;2&lt;/numConnections&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Timeout&gt;600&lt;/Timeout&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="8"/>&lt;Annotation DisplayMode=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Name /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;DefaultAnnotationText /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Left value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Annotation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;EngineSettings EngineDll=&quot;AlteryxConnectorEngine.dll&quot; EngineDllEntryPoint=&quot;AlteryxDownload&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Node&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Node ToolID=&quot;15&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;GuiSettings Plugin=&quot;AlteryxBasePluginsGui.RegEx.RegEx&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Position x=&quot;306&quot; y=&quot;6&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Field&gt;DownloadData&lt;/Field&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;RegExExpression value=&quot;&amp;lt;a target=&amp;quot;_self&amp;quot;\s*class=&amp;quot;text-center&amp;quot;\s*title=&amp;quot;[^&amp;quot;]+&amp;quot;\s*href=&amp;quot;[^&amp;quot;]+&amp;quot;\s*data-country=&amp;quot;[^&amp;quot;]+&amp;quot;\s*&amp;gt;&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;CaseInsensitve value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Method&gt;ParseSimple&lt;/Method&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Replace expression=&quot;&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;CopyUnmatched value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/Replace&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="10"/>&lt;ParseSimple&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SplitToRows value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/ParseSimple&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;ParseComplex&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;No Marked Groups Found&quot; type=&quot;No Marked Groups Found&quot; size=&quot;No Marked Groups Found&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/ParseComplex&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Match&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field&gt;DownloadData_Matched&lt;/Field&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;ErrorUnmatched value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/Match&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Annotation DisplayMode=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Name /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;DefaultAnnotationText&gt;Tokenize:&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">&amp;lt;a target=&quot;_self&quot;\s*class=&quot;...&lt;/DefaultAnnotationText&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Left value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Annotation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;EngineSettings EngineDll=&quot;AlteryxBasePluginsEngine.dll&quot; EngineDllEntryPoint=&quot;AlteryxRegEx&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Node&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Node ToolID=&quot;16&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="6"/>&lt;GuiSettings Plugin=&quot;AlteryxBasePluginsGui.RegEx.RegEx&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Position x=&quot;426&quot; y=&quot;6&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Field&gt;DownloadData&lt;/Field&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;RegExExpression value=&quot;&amp;lt;a target=&amp;quot;_self&amp;quot;\s*class=&amp;quot;text-center&amp;quot;\s*title=&amp;quot;([^&amp;quot;]+)&amp;quot;\s*href=&amp;quot;([^&amp;quot;]+)&amp;quot;\s*data-country=&amp;quot;[^&amp;quot;]+&amp;quot;\s*&amp;gt;&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;CaseInsensitve value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Method&gt;ParseComplex&lt;/Method&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Replace expression=&quot;&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;CopyUnmatched value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/Replace&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;ParseSimple&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SplitToRows value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;RootName&gt;DownloadData&lt;/RootName&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;NumFields value=&quot;3&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;ErrorHandling&gt;Warn&lt;/ErrorHandling&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/ParseSimple&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;ParseComplex&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;Airline&quot; type=&quot;V_WString&quot; size=&quot;1073741823&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;URL&quot; type=&quot;V_WString&quot; size=&quot;1073741823&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="10"/>&lt;/ParseComplex&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Match&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field&gt;DownloadData_Matched&lt;/Field&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;ErrorUnmatched value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/Match&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Annotation DisplayMode=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Name /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;DefaultAnnotationText&gt;Parse:&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">&amp;lt;a target=&quot;_self&quot;\s*class=&quot;...&lt;/DefaultAnnotationText&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Left value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Annotation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;EngineSettings EngineDll=&quot;AlteryxBasePluginsEngine.dll&quot; EngineDllEntryPoint=&quot;AlteryxRegEx&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Node&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Node ToolID=&quot;17&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;GuiSettings Plugin=&quot;AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Position x=&quot;546&quot; y=&quot;6&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="10"/>&lt;OrderChanged value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;SelectFields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SelectField field=&quot;Airline List&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SelectField field=&quot;DownloadData&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SelectField field=&quot;DownloadHeaders&quot; selected=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;SelectField field=&quot;*Unknown&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/SelectFields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Annotation DisplayMode=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Name /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;DefaultAnnotationText /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Left value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Annotation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;EngineSettings EngineDll=&quot;AlteryxBasePluginsEngine.dll&quot; EngineDllEntryPoint=&quot;AlteryxSelect&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Node&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Node ToolID=&quot;18&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;GuiSettings Plugin=&quot;AlteryxBasePluginsGui.AutoField.AutoField&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Position x=&quot;642&quot; y=&quot;6&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/GuiSettings&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="8"/>&lt;Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Fields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;Airline&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;URL&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field field=&quot;*Unknown&quot; selected=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/Fields&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Configuration&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;Annotation DisplayMode=&quot;0&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Name /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;DefaultAnnotationText /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;Left value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/Annotation&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;MetaInfo connection=&quot;Output&quot;&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;RecordInfo&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;Airline&quot; size=&quot;34&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;V_String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="12"/>&lt;Field description=&quot;RegEx: Parsed from DownloadData&quot; name=&quot;URL&quot; size=&quot;84&quot; source=&quot;RegEx: Parsed from DownloadData&quot; type=&quot;V_String&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="10"/>&lt;/RecordInfo&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/>&lt;/MetaInfo&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;EngineSettings EngineDll=&quot;AlteryxBasePluginsEngine.dll&quot; EngineDllEntryPoint=&quot;AlteryxAutoField&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Node&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="2"/>&lt;/Nodes&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;Connections&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Origin ToolID=&quot;2&quot; Connection=&quot;Output&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Destination ToolID=&quot;3&quot; Connection=&quot;Input&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Origin ToolID=&quot;3&quot; Connection=&quot;Output&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Destination ToolID=&quot;5&quot; Connection=&quot;Input&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Origin ToolID=&quot;5&quot; Connection=&quot;Output&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Destination ToolID=&quot;7&quot; Connection=&quot;Input&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Origin ToolID=&quot;6&quot; Connection=&quot;Output&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Destination ToolID=&quot;9&quot; Connection=&quot;Left&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Origin ToolID=&quot;8&quot; Connection=&quot;Output&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Destination ToolID=&quot;9&quot; Connection=&quot;Right&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Origin ToolID=&quot;7&quot; Connection=&quot;Output&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Destination ToolID=&quot;6&quot; Connection=&quot;Input&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Origin ToolID=&quot;8&quot; Connection=&quot;Output&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Destination ToolID=&quot;10&quot; Connection=&quot;Right&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Origin ToolID=&quot;9&quot; Connection=&quot;Join&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Destination ToolID=&quot;10&quot; Connection=&quot;Left&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Origin ToolID=&quot;10&quot; Connection=&quot;Join&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Destination ToolID=&quot;11&quot; Connection=&quot;Points&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Origin ToolID=&quot;11&quot; Connection=&quot;Output26&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Destination ToolID=&quot;12&quot; Connection=&quot;Input&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>&lt;Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Origin ToolID=&quot;13&quot; Connection=&quot;Output&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Destination ToolID=&quot;14&quot; Connection=&quot;Input&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Origin ToolID=&quot;14&quot; Connection=&quot;Output&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Destination ToolID=&quot;15&quot; Connection=&quot;Input&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Origin ToolID=&quot;15&quot; Connection=&quot;Output&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Destination ToolID=&quot;16&quot; Connection=&quot;Input&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Origin ToolID=&quot;16&quot; Connection=&quot;Output&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Destination ToolID=&quot;17&quot; Connection=&quot;Input&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Origin ToolID=&quot;17&quot; Connection=&quot;Output&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Destination ToolID=&quot;18&quot; Connection=&quot;Input&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="6"/>&lt;Origin ToolID=&quot;18&quot; Connection=&quot;Output&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Destination ToolID=&quot;2&quot; Connection=&quot;Input&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Connection&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;/Connections&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Memory default=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;GlobalRecordLimit value=&quot;0&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;TempFiles default=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Annotation on=&quot;True&quot; includeToolName=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;ConvErrorLimit value=&quot;10&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;ConvErrorLimit_Stop value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;CancelOnError value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;DisableBrowse value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;EnablePerformanceProfiling value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;DisableAllOutput value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;ShowAllMacroMessages value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;ShowConnectionStatusIsOn value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;ShowConnectionStatusOnlyWhenRunning value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;ZoomLevel value=&quot;0&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;LayoutType&gt;Horizontal&lt;/LayoutType&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;MetaInfo&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="6"/>&lt;NameIsFileName value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Name&gt;FlightRadarDownload&lt;/Name&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Description /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;RootToolName /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;ToolVersion /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;ToolInDb value=&quot;False&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;CategoryName /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;SearchTags /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Author /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Company /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Copyright /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;DescriptionLink actual=&quot;&quot; displayed=&quot;&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/MetaInfo&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Events&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="6"/>&lt;Enabled value=&quot;True&quot; /&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;/Events&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>&lt;/Properties&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">&lt;/AlteryxDocument&gt;</text:p>
+  </office:text>
+ </office:body>
+</office:document>
